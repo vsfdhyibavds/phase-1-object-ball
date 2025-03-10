@@ -125,7 +125,6 @@ function gameObject() {
         return players[playerName].points;
       }
     }
-    console.log("Alan Anderson");
     return null;// Player not found
     //shoeSize(playerName)
     function shoeSize (playerName) {
